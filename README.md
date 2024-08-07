@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @lalabisteca1B
-- 👀 I’m interested in FOOD AND SLEEP.
-- 🌱 I’m currently learning QUE?
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me AN?
-- 😄 Pronouns: ELA/DELE
-- ⚡ Fun fact: I'DONT KNOW
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
 
-<!---
-lalabisteca1B/lalabisteca1B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
